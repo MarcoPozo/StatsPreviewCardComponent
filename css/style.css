@@ -234,3 +234,13 @@ body {
     grid-template-rows: repeat(3, 1fr);
   }
 }
+
+@media (max-width: 360px) {
+  .card__title {
+    font-size: 1.2rem;
+  }
+
+  .card__paragraph {
+    margin-bottom: 15px;
+  }
+}
