@@ -30,7 +30,7 @@ body {
   font-family: "Inter", sans-serif;
 }
 
-a{
+a {
   color: var(--soft-violet);
   text-decoration: none;
 }
@@ -147,8 +147,9 @@ a{
 }
 
 .attribution {
+  font-size: 12px;
   width: 100%;
-  height: 30px;
+  height: auto;
   line-height: 30px;
   text-align: center;
   background-color: var(--very-dark-blue);
